@@ -10,11 +10,9 @@ const Header: React.FC<HeaderProps> = ({ loose }) => {
       <MjmlColumn>
         <MjmlImage
           padding="0 24px 0"
-          width="49px"
-          height="54px"
+          width="250px"
           align="center"
-          src="https://s3.amazonaws.com/lab.campsh.com/bb-transparent%402x.png"
-          cssClass="logo"
+          src="https://davidfdesousa.com.br/emails/transite/2023/08-09/welcome/imgs/brand-v2.png"
         />
       </MjmlColumn>
     </MjmlSection>

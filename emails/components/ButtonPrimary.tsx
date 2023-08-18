@@ -18,8 +18,8 @@ const ButtonPrimary: React.FC<ButtonPrimaryProps> = ({ link, uiText }) => {
         padding="0"
         align="left"
         href={link}
-        backgroundColor={black}
-        color={grayLight}
+        backgroundColor="#b36eff"
+        color="#fff"
         borderRadius={borderBase}
         cssClass="light-mode"
       >
@@ -32,7 +32,7 @@ const ButtonPrimary: React.FC<ButtonPrimaryProps> = ({ link, uiText }) => {
         padding="0"
         align="left"
         href={link}
-        backgroundColor={gold}
+        backgroundColor="#b36eff"
         color={black}
         borderRadius={borderBase}
         cssClass="dark-mode"
